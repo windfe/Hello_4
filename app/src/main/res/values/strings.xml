@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello_4</string>
+    <string-array name="OSes">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>Windows</item>
+        <item>Obuntu</item>
+        <item>MacOs</item>
+    </string-array>
+</resources>
